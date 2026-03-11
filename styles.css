@@ -15,7 +15,7 @@ p{
 
 .card{
     background-color: purple;
-    color: white;
+    color: purple;
     width: 250px;
     height: 250px;
     align-content: center;
@@ -36,3 +36,4 @@ p{
     justify-content: space-around;
     margin: 20px;
 }
+
